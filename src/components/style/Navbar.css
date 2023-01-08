@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 30px;
+}
+
+.nav-heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.icon{
+    size: 20px;
+}
+

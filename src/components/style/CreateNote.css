@@ -1,0 +1,17 @@
+
+
+.addNote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.note{
+    text-align: center;
+    margin: 40px;
+    width: 500px;
+    padding: 40px;
+    background-color: bisque;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px blueviolet;
+}
